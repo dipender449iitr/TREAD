@@ -1,0 +1,304 @@
+2026-10-17 23:22:52,296 INFO TREAD MSR SINGLE-FILE RELEASE / 2026-10-17 23:22:52
+2026-10-17 23:22:52,410 INFO Built-in mathematical/leakage smoke checks passed
+2026-10-17 23:22:52,410 INFO Dataset directory: <DATA_ROOT>
+2026-10-17 23:22:52,411 INFO Mode: full, downstream seeds: 10
+2026-10-17 23:22:52,419 INFO Parsed equinox.csv using ';' and utf-8-sig: 324 rows, 22 raw columns
+2026-10-17 23:22:52,424 INFO Skip metric candidate 'classname' in equinox.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,428 INFO Skip metric candidate '' in equinox.csv: empty/unnamed header
+2026-10-17 23:22:52,429 INFO Accepted aeeem/equinox: 324 rows; 19 numeric metric columns; 39.81% defective
+2026-10-17 23:22:52,444 INFO Parsed jdt.csv using ';' and utf-8-sig: 997 rows, 22 raw columns
+2026-10-17 23:22:52,449 INFO Skip metric candidate 'classname' in jdt.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,453 INFO Skip metric candidate '' in jdt.csv: empty/unnamed header
+2026-10-17 23:22:52,454 INFO Accepted aeeem/jdt: 997 rows; 19 numeric metric columns; 20.66% defective
+2026-10-17 23:22:52,464 INFO Parsed lucene.csv using ';' and utf-8-sig: 691 rows, 22 raw columns
+2026-10-17 23:22:52,467 INFO Skip metric candidate 'classname' in lucene.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,471 INFO Skip metric candidate '' in lucene.csv: empty/unnamed header
+2026-10-17 23:22:52,471 INFO Accepted aeeem/lucene: 691 rows; 19 numeric metric columns; 9.26% defective
+2026-10-17 23:22:52,495 INFO Parsed mylyn.csv using ';' and utf-8-sig: 1862 rows, 22 raw columns
+2026-10-17 23:22:52,498 INFO Skip metric candidate 'classname' in mylyn.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,502 INFO Skip metric candidate '' in mylyn.csv: empty/unnamed header
+2026-10-17 23:22:52,503 INFO Accepted aeeem/mylyn: 1862 rows; 19 numeric metric columns; 13.16% defective
+2026-10-17 23:22:52,522 INFO Parsed pde.csv using ';' and utf-8-sig: 1497 rows, 22 raw columns
+2026-10-17 23:22:52,525 INFO Skip metric candidate 'classname' in pde.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,529 INFO Skip metric candidate '' in pde.csv: empty/unnamed header
+2026-10-17 23:22:52,530 INFO Accepted aeeem/pde: 1497 rows; 19 numeric metric columns; 13.96% defective
+2026-10-17 23:22:52,531 INFO FINAL aeeem shared feature schema: 19 metrics, 5 projects
+2026-10-17 23:22:52,579 INFO Parsed activemq-5.0.0.csv using ',' and utf-8-sig: 1884 rows, 70 raw columns
+2026-10-17 23:22:52,583 INFO Skip metric candidate 'File' in activemq-5.0.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,595 INFO Skip metric candidate 'HeuBug' in activemq-5.0.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,596 INFO Skip metric candidate 'HeuBugCount' in activemq-5.0.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,596 INFO Skip metric candidate 'RealBugCount' in activemq-5.0.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,597 INFO Accepted jira/activemq-5.0.0: 1884 rows; 65 numeric metric columns; 15.55% defective
+2026-10-17 23:22:52,804 INFO Parsed camel-2.10.0.csv using ',' and utf-8-sig: 7914 rows, 70 raw columns
+2026-10-17 23:22:52,810 INFO Skip metric candidate 'File' in camel-2.10.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,823 INFO Skip metric candidate 'HeuBug' in camel-2.10.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,823 INFO Skip metric candidate 'HeuBugCount' in camel-2.10.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,823 INFO Skip metric candidate 'RealBugCount' in camel-2.10.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,827 INFO Accepted jira/camel-2.10.0: 7914 rows; 65 numeric metric columns; 2.91% defective
+2026-10-17 23:22:52,878 INFO Parsed derby-10.2.1.6.csv using ',' and utf-8-sig: 1963 rows, 70 raw columns
+2026-10-17 23:22:52,882 INFO Skip metric candidate 'File' in derby-10.2.1.6.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,894 INFO Skip metric candidate 'HeuBug' in derby-10.2.1.6.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,894 INFO Skip metric candidate 'HeuBugCount' in derby-10.2.1.6.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,894 INFO Skip metric candidate 'RealBugCount' in derby-10.2.1.6.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,895 INFO Accepted jira/derby-10.2.1.6: 1963 rows; 65 numeric metric columns; 33.67% defective
+2026-10-17 23:22:52,915 INFO Parsed groovy-1_5_7.csv using ',' and utf-8-sig: 757 rows, 70 raw columns
+2026-10-17 23:22:52,919 INFO Skip metric candidate 'File' in groovy-1_5_7.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,931 INFO Skip metric candidate 'HeuBug' in groovy-1_5_7.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,931 INFO Skip metric candidate 'HeuBugCount' in groovy-1_5_7.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,931 INFO Skip metric candidate 'RealBugCount' in groovy-1_5_7.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,932 INFO Accepted jira/groovy-1_5_7: 757 rows; 65 numeric metric columns; 3.43% defective
+2026-10-17 23:22:52,960 INFO Parsed hbase-0.94.0.csv using ',' and utf-8-sig: 1059 rows, 70 raw columns
+2026-10-17 23:22:52,964 INFO Skip metric candidate 'File' in hbase-0.94.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,976 INFO Skip metric candidate 'HeuBug' in hbase-0.94.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,976 INFO Skip metric candidate 'HeuBugCount' in hbase-0.94.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,976 INFO Skip metric candidate 'RealBugCount' in hbase-0.94.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:52,976 INFO Accepted jira/hbase-0.94.0: 1059 rows; 65 numeric metric columns; 20.59% defective
+2026-10-17 23:22:53,016 INFO Parsed hive-0.10.0.csv using ',' and utf-8-sig: 1560 rows, 70 raw columns
+2026-10-17 23:22:53,020 INFO Skip metric candidate 'File' in hive-0.10.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,032 INFO Skip metric candidate 'HeuBug' in hive-0.10.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,032 INFO Skip metric candidate 'HeuBugCount' in hive-0.10.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,032 INFO Skip metric candidate 'RealBugCount' in hive-0.10.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,033 INFO Accepted jira/hive-0.10.0: 1560 rows; 65 numeric metric columns; 11.28% defective
+2026-10-17 23:22:53,053 INFO Parsed jruby-1.1.csv using ',' and utf-8-sig: 731 rows, 70 raw columns
+2026-10-17 23:22:53,057 INFO Skip metric candidate 'File' in jruby-1.1.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,069 INFO Skip metric candidate 'HeuBug' in jruby-1.1.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,069 INFO Skip metric candidate 'HeuBugCount' in jruby-1.1.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,069 INFO Skip metric candidate 'RealBugCount' in jruby-1.1.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,069 INFO Accepted jira/jruby-1.1: 731 rows; 65 numeric metric columns; 11.90% defective
+2026-10-17 23:22:53,091 INFO Parsed lucene-2.3.0.csv using ',' and utf-8-sig: 805 rows, 70 raw columns
+2026-10-17 23:22:53,094 INFO Skip metric candidate 'File' in lucene-2.3.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,106 INFO Skip metric candidate 'HeuBug' in lucene-2.3.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,106 INFO Skip metric candidate 'HeuBugCount' in lucene-2.3.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,106 INFO Skip metric candidate 'RealBugCount' in lucene-2.3.0.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,107 INFO Accepted jira/lucene-2.3.0: 805 rows; 65 numeric metric columns; 24.35% defective
+2026-10-17 23:22:53,149 INFO Parsed wicket-1.3.0-incubating-beta-1.csv using ',' and utf-8-sig: 1672 rows, 70 raw columns
+2026-10-17 23:22:53,153 INFO Skip metric candidate 'File' in wicket-1.3.0-incubating-beta-1.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,165 INFO Skip metric candidate 'HeuBug' in wicket-1.3.0-incubating-beta-1.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,165 INFO Skip metric candidate 'HeuBugCount' in wicket-1.3.0-incubating-beta-1.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,165 INFO Skip metric candidate 'RealBugCount' in wicket-1.3.0-incubating-beta-1.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,166 INFO Accepted jira/wicket-1.3.0-incubating-beta-1: 1672 rows; 65 numeric metric columns; 6.04% defective
+2026-10-17 23:22:53,171 INFO FINAL jira shared feature schema: 65 metrics, 9 projects
+2026-10-17 23:22:53,178 INFO Parsed ant-1.7.csv using ',' and utf-8-sig: 745 rows, 24 raw columns
+2026-10-17 23:22:53,182 INFO Skip metric candidate 'name' in ant-1.7.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,182 INFO Skip metric candidate 'version' in ant-1.7.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,183 INFO Skip metric candidate 'name.1' in ant-1.7.csv: non-numeric values (745)
+2026-10-17 23:22:53,187 INFO Accepted promise/ant-1.7: 745 rows; 20 numeric metric columns; 22.28% defective
+2026-10-17 23:22:53,196 INFO Parsed camel-1.6.csv using ',' and utf-8-sig: 965 rows, 24 raw columns
+2026-10-17 23:22:53,200 INFO Skip metric candidate 'name' in camel-1.6.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,200 INFO Skip metric candidate 'version' in camel-1.6.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,200 INFO Skip metric candidate 'name.1' in camel-1.6.csv: non-numeric values (965)
+2026-10-17 23:22:53,205 INFO Accepted promise/camel-1.6: 965 rows; 20 numeric metric columns; 19.48% defective
+2026-10-17 23:22:53,210 INFO Parsed jedit-4.3.csv using ',' and utf-8-sig: 492 rows, 24 raw columns
+2026-10-17 23:22:53,213 INFO Skip metric candidate 'name' in jedit-4.3.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,213 INFO Skip metric candidate 'version' in jedit-4.3.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,214 INFO Skip metric candidate 'name.1' in jedit-4.3.csv: non-numeric values (492)
+2026-10-17 23:22:53,218 INFO Accepted promise/jedit-4.3: 492 rows; 20 numeric metric columns; 2.24% defective
+2026-10-17 23:22:53,227 INFO Parsed xalan-2.7.csv using ',' and utf-8-sig: 909 rows, 24 raw columns
+2026-10-17 23:22:53,230 INFO Skip metric candidate 'name' in xalan-2.7.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,230 INFO Skip metric candidate 'version' in xalan-2.7.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,231 INFO Skip metric candidate 'name.1' in xalan-2.7.csv: non-numeric values (909)
+2026-10-17 23:22:53,235 INFO Accepted promise/xalan-2.7: 909 rows; 20 numeric metric columns; 98.79% defective
+2026-10-17 23:22:53,241 INFO Parsed xerces-1.4.csv using ',' and utf-8-sig: 588 rows, 24 raw columns
+2026-10-17 23:22:53,245 INFO Skip metric candidate 'name' in xerces-1.4.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,245 INFO Skip metric candidate 'version' in xerces-1.4.csv: known ID/metadata/alternate outcome
+2026-10-17 23:22:53,245 INFO Skip metric candidate 'name.1' in xerces-1.4.csv: non-numeric values (588)
+2026-10-17 23:22:53,250 INFO Accepted promise/xerces-1.4: 588 rows; 20 numeric metric columns; 74.32% defective
+2026-10-17 23:22:53,250 INFO FINAL promise shared feature schema: 20 metrics, 5 projects
+2026-10-17 23:22:53,363 WARNING Feature dimensions and project counts come from CSV files, not the manuscript table. Compare dataset_inventory.csv with the paper before submission.
+2026-10-17 23:22:53,923 INFO Target aeeem/equinox: 4 sources, 324 target modules
+2026-10-17 23:24:24,694 INFO Completed aeeem/equinox: R0=0.2000 R1=0.6509 U=0.090
+2026-10-17 23:24:24,694 INFO Target aeeem/jdt: 4 sources, 997 target modules
+2026-10-17 23:25:45,859 INFO Completed aeeem/jdt: R0=0.2505 R1=0.6787 U=0.368
+2026-10-17 23:25:45,859 INFO Target aeeem/lucene: 4 sources, 691 target modules
+2026-10-17 23:27:12,016 INFO Completed aeeem/lucene: R0=0.2096 R1=0.6657 U=0.023
+2026-10-17 23:27:12,016 INFO Target aeeem/mylyn: 4 sources, 1862 target modules
+2026-10-17 23:28:33,329 INFO Completed aeeem/mylyn: R0=0.2162 R1=0.7006 U=0.016
+2026-10-17 23:28:33,329 INFO Target aeeem/pde: 4 sources, 1497 target modules
+2026-10-17 23:29:50,849 INFO Completed aeeem/pde: R0=0.2419 R1=0.6637 U=0.037
+2026-10-17 23:29:50,849 INFO Target jira/activemq-5.0.0: 8 sources, 1884 target modules
+2026-10-17 23:30:03,201 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:30:03,211 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:33:15,771 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:33:15,777 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:33:30,993 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:33:30,999 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:33:46,954 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:33:46,960 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:34:04,564 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:34:04,570 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:34:21,854 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:34:21,860 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:34:21,866 WARNING GMM k=5 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-17 23:40:48,776 INFO Completed jira/activemq-5.0.0: R0=0.2189 R1=0.6810 U=0.027
+2026-10-17 23:40:48,776 INFO Target jira/camel-2.10.0: 8 sources, 7914 target modules
+2026-10-17 23:49:27,070 INFO Completed jira/camel-2.10.0: R0=0.2672 R1=0.6477 U=0.009
+2026-10-17 23:49:27,070 INFO Target jira/derby-10.2.1.6: 8 sources, 1963 target modules
+2026-10-18 00:01:34,612 INFO Completed jira/derby-10.2.1.6: R0=0.2013 R1=0.6959 U=0.214
+2026-10-18 00:01:34,613 INFO Target jira/groovy-1_5_7: 8 sources, 757 target modules
+2026-10-18 00:01:50,846 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:01:50,855 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:05:22,116 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:05:22,122 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:05:39,005 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:05:39,011 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:05:56,191 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:05:56,198 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:06:15,523 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:06:15,529 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:06:33,822 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:06:33,828 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:06:33,835 WARNING GMM k=5 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:13:43,415 INFO Completed jira/groovy-1_5_7: R0=0.2206 R1=0.6695 U=0.058
+2026-10-18 00:13:43,415 INFO Target jira/hbase-0.94.0: 8 sources, 1059 target modules
+2026-10-18 00:25:22,271 INFO Completed jira/hbase-0.94.0: R0=0.2164 R1=0.6818 U=0.115
+2026-10-18 00:25:22,271 INFO Target jira/hive-0.10.0: 8 sources, 1560 target modules
+2026-10-18 00:36:09,385 INFO Completed jira/hive-0.10.0: R0=0.2216 R1=0.6754 U=0.076
+2026-10-18 00:36:09,385 INFO Target jira/jruby-1.1: 8 sources, 731 target modules
+2026-10-18 00:36:26,550 WARNING GMM k=2 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:36:26,576 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:36:26,631 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:39:46,234 WARNING GMM k=2 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:39:46,288 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:40:04,054 WARNING GMM k=2 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:40:04,064 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:40:21,687 WARNING GMM k=2 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:40:21,707 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:40:41,838 WARNING GMM k=2 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:40:41,871 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:41:00,023 WARNING GMM k=2 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:41:00,054 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:41:00,069 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 00:47:56,866 INFO Completed jira/jruby-1.1: R0=0.2188 R1=0.6732 U=0.114
+2026-10-18 00:47:56,866 INFO Target jira/lucene-2.3.0: 8 sources, 805 target modules
+2026-10-18 01:00:07,704 INFO Completed jira/lucene-2.3.0: R0=0.2172 R1=0.6768 U=0.082
+2026-10-18 01:00:07,704 INFO Target jira/wicket-1.3.0-incubating-beta-1: 8 sources, 1672 target modules
+2026-10-18 01:00:24,795 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:00:24,801 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:03:38,584 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:03:38,590 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:03:38,626 WARNING GMM k=5 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:03:56,189 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:03:56,195 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:04:12,711 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:04:12,717 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:04:30,818 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:04:30,825 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:04:47,480 WARNING GMM k=3 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:04:47,488 WARNING GMM k=4 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:04:47,495 WARNING GMM k=5 inadmissible: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data.
+2026-10-18 01:11:48,425 INFO Completed jira/wicket-1.3.0-incubating-beta-1: R0=0.2219 R1=0.6688 U=0.061
+2026-10-18 01:11:48,425 INFO Target promise/ant-1.7: 4 sources, 745 target modules
+2026-10-18 01:12:52,562 INFO Completed promise/ant-1.7: R0=0.5976 R1=0.5424 U=0.047
+2026-10-18 01:12:52,562 INFO Target promise/camel-1.6: 4 sources, 965 target modules
+2026-10-18 01:13:55,994 INFO Completed promise/camel-1.6: R0=0.5961 R1=0.5530 U=0.029
+2026-10-18 01:13:55,994 INFO Target promise/jedit-4.3: 4 sources, 492 target modules
+2026-10-18 01:15:05,492 INFO Completed promise/jedit-4.3: R0=0.5774 R1=0.4952 U=0.077
+2026-10-18 01:15:05,492 INFO Target promise/xalan-2.7: 4 sources, 909 target modules
+2026-10-18 01:16:08,018 INFO Completed promise/xalan-2.7: R0=0.3555 R1=0.6262 U=0.152
+2026-10-18 01:16:08,018 INFO Target promise/xerces-1.4: 4 sources, 588 target modules
+2026-10-18 01:17:14,932 INFO Completed promise/xerces-1.4: R0=0.4421 R1=0.6085 U=0.054
+2026-10-18 01:18:43,157 INFO Finished 19 target attempts (OK 19, unavailable 0); results: <ORIGINAL_RUN_ROOT>/TREAD_MSR_FINAL_RESULTS
+2026-10-18 01:18:43,167 INFO Parsed equinox.csv using ';' and utf-8-sig: 324 rows, 22 raw columns
+2026-10-18 01:18:43,170 INFO Skip metric candidate 'classname' in equinox.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,174 INFO Skip metric candidate '' in equinox.csv: empty/unnamed header
+2026-10-18 01:18:43,174 INFO Accepted aeeem/equinox: 324 rows; 19 numeric metric columns; 39.81% defective
+2026-10-18 01:18:43,187 INFO Parsed jdt.csv using ';' and utf-8-sig: 997 rows, 22 raw columns
+2026-10-18 01:18:43,191 INFO Skip metric candidate 'classname' in jdt.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,195 INFO Skip metric candidate '' in jdt.csv: empty/unnamed header
+2026-10-18 01:18:43,195 INFO Accepted aeeem/jdt: 997 rows; 19 numeric metric columns; 20.66% defective
+2026-10-18 01:18:43,205 INFO Parsed lucene.csv using ';' and utf-8-sig: 691 rows, 22 raw columns
+2026-10-18 01:18:43,209 INFO Skip metric candidate 'classname' in lucene.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,213 INFO Skip metric candidate '' in lucene.csv: empty/unnamed header
+2026-10-18 01:18:43,213 INFO Accepted aeeem/lucene: 691 rows; 19 numeric metric columns; 9.26% defective
+2026-10-18 01:18:43,235 INFO Parsed mylyn.csv using ';' and utf-8-sig: 1862 rows, 22 raw columns
+2026-10-18 01:18:43,239 INFO Skip metric candidate 'classname' in mylyn.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,243 INFO Skip metric candidate '' in mylyn.csv: empty/unnamed header
+2026-10-18 01:18:43,244 INFO Accepted aeeem/mylyn: 1862 rows; 19 numeric metric columns; 13.16% defective
+2026-10-18 01:18:43,262 INFO Parsed pde.csv using ';' and utf-8-sig: 1497 rows, 22 raw columns
+2026-10-18 01:18:43,266 INFO Skip metric candidate 'classname' in pde.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,270 INFO Skip metric candidate '' in pde.csv: empty/unnamed header
+2026-10-18 01:18:43,270 INFO Accepted aeeem/pde: 1497 rows; 19 numeric metric columns; 13.96% defective
+2026-10-18 01:18:43,271 INFO FINAL aeeem shared feature schema: 19 metrics, 5 projects
+2026-10-18 01:18:43,319 INFO Parsed activemq-5.0.0.csv using ',' and utf-8-sig: 1884 rows, 70 raw columns
+2026-10-18 01:18:43,323 INFO Skip metric candidate 'File' in activemq-5.0.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,335 INFO Skip metric candidate 'HeuBug' in activemq-5.0.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,336 INFO Skip metric candidate 'HeuBugCount' in activemq-5.0.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,336 INFO Skip metric candidate 'RealBugCount' in activemq-5.0.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,337 INFO Accepted jira/activemq-5.0.0: 1884 rows; 65 numeric metric columns; 15.55% defective
+2026-10-18 01:18:43,542 INFO Parsed camel-2.10.0.csv using ',' and utf-8-sig: 7914 rows, 70 raw columns
+2026-10-18 01:18:43,548 INFO Skip metric candidate 'File' in camel-2.10.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,561 INFO Skip metric candidate 'HeuBug' in camel-2.10.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,561 INFO Skip metric candidate 'HeuBugCount' in camel-2.10.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,561 INFO Skip metric candidate 'RealBugCount' in camel-2.10.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,564 INFO Accepted jira/camel-2.10.0: 7914 rows; 65 numeric metric columns; 2.91% defective
+2026-10-18 01:18:43,615 INFO Parsed derby-10.2.1.6.csv using ',' and utf-8-sig: 1963 rows, 70 raw columns
+2026-10-18 01:18:43,619 INFO Skip metric candidate 'File' in derby-10.2.1.6.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,631 INFO Skip metric candidate 'HeuBug' in derby-10.2.1.6.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,631 INFO Skip metric candidate 'HeuBugCount' in derby-10.2.1.6.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,631 INFO Skip metric candidate 'RealBugCount' in derby-10.2.1.6.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,632 INFO Accepted jira/derby-10.2.1.6: 1963 rows; 65 numeric metric columns; 33.67% defective
+2026-10-18 01:18:43,652 INFO Parsed groovy-1_5_7.csv using ',' and utf-8-sig: 757 rows, 70 raw columns
+2026-10-18 01:18:43,656 INFO Skip metric candidate 'File' in groovy-1_5_7.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,668 INFO Skip metric candidate 'HeuBug' in groovy-1_5_7.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,668 INFO Skip metric candidate 'HeuBugCount' in groovy-1_5_7.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,668 INFO Skip metric candidate 'RealBugCount' in groovy-1_5_7.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,669 INFO Accepted jira/groovy-1_5_7: 757 rows; 65 numeric metric columns; 3.43% defective
+2026-10-18 01:18:43,697 INFO Parsed hbase-0.94.0.csv using ',' and utf-8-sig: 1059 rows, 70 raw columns
+2026-10-18 01:18:43,701 INFO Skip metric candidate 'File' in hbase-0.94.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,713 INFO Skip metric candidate 'HeuBug' in hbase-0.94.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,714 INFO Skip metric candidate 'HeuBugCount' in hbase-0.94.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,714 INFO Skip metric candidate 'RealBugCount' in hbase-0.94.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,714 INFO Accepted jira/hbase-0.94.0: 1059 rows; 65 numeric metric columns; 20.59% defective
+2026-10-18 01:18:43,755 INFO Parsed hive-0.10.0.csv using ',' and utf-8-sig: 1560 rows, 70 raw columns
+2026-10-18 01:18:43,759 INFO Skip metric candidate 'File' in hive-0.10.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,771 INFO Skip metric candidate 'HeuBug' in hive-0.10.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,771 INFO Skip metric candidate 'HeuBugCount' in hive-0.10.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,771 INFO Skip metric candidate 'RealBugCount' in hive-0.10.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,772 INFO Accepted jira/hive-0.10.0: 1560 rows; 65 numeric metric columns; 11.28% defective
+2026-10-18 01:18:43,792 INFO Parsed jruby-1.1.csv using ',' and utf-8-sig: 731 rows, 70 raw columns
+2026-10-18 01:18:43,796 INFO Skip metric candidate 'File' in jruby-1.1.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,807 INFO Skip metric candidate 'HeuBug' in jruby-1.1.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,807 INFO Skip metric candidate 'HeuBugCount' in jruby-1.1.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,808 INFO Skip metric candidate 'RealBugCount' in jruby-1.1.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,808 INFO Accepted jira/jruby-1.1: 731 rows; 65 numeric metric columns; 11.90% defective
+2026-10-18 01:18:43,829 INFO Parsed lucene-2.3.0.csv using ',' and utf-8-sig: 805 rows, 70 raw columns
+2026-10-18 01:18:43,833 INFO Skip metric candidate 'File' in lucene-2.3.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,845 INFO Skip metric candidate 'HeuBug' in lucene-2.3.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,845 INFO Skip metric candidate 'HeuBugCount' in lucene-2.3.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,845 INFO Skip metric candidate 'RealBugCount' in lucene-2.3.0.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,846 INFO Accepted jira/lucene-2.3.0: 805 rows; 65 numeric metric columns; 24.35% defective
+2026-10-18 01:18:43,888 INFO Parsed wicket-1.3.0-incubating-beta-1.csv using ',' and utf-8-sig: 1672 rows, 70 raw columns
+2026-10-18 01:18:43,892 INFO Skip metric candidate 'File' in wicket-1.3.0-incubating-beta-1.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,904 INFO Skip metric candidate 'HeuBug' in wicket-1.3.0-incubating-beta-1.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,904 INFO Skip metric candidate 'HeuBugCount' in wicket-1.3.0-incubating-beta-1.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,904 INFO Skip metric candidate 'RealBugCount' in wicket-1.3.0-incubating-beta-1.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,905 INFO Accepted jira/wicket-1.3.0-incubating-beta-1: 1672 rows; 65 numeric metric columns; 6.04% defective
+2026-10-18 01:18:43,909 INFO FINAL jira shared feature schema: 65 metrics, 9 projects
+2026-10-18 01:18:43,917 INFO Parsed ant-1.7.csv using ',' and utf-8-sig: 745 rows, 24 raw columns
+2026-10-18 01:18:43,921 INFO Skip metric candidate 'name' in ant-1.7.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,921 INFO Skip metric candidate 'version' in ant-1.7.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,921 INFO Skip metric candidate 'name.1' in ant-1.7.csv: non-numeric values (745)
+2026-10-18 01:18:43,926 INFO Accepted promise/ant-1.7: 745 rows; 20 numeric metric columns; 22.28% defective
+2026-10-18 01:18:43,935 INFO Parsed camel-1.6.csv using ',' and utf-8-sig: 965 rows, 24 raw columns
+2026-10-18 01:18:43,938 INFO Skip metric candidate 'name' in camel-1.6.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,939 INFO Skip metric candidate 'version' in camel-1.6.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,939 INFO Skip metric candidate 'name.1' in camel-1.6.csv: non-numeric values (965)
+2026-10-18 01:18:43,944 INFO Accepted promise/camel-1.6: 965 rows; 20 numeric metric columns; 19.48% defective
+2026-10-18 01:18:43,949 INFO Parsed jedit-4.3.csv using ',' and utf-8-sig: 492 rows, 24 raw columns
+2026-10-18 01:18:43,953 INFO Skip metric candidate 'name' in jedit-4.3.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,953 INFO Skip metric candidate 'version' in jedit-4.3.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,953 INFO Skip metric candidate 'name.1' in jedit-4.3.csv: non-numeric values (492)
+2026-10-18 01:18:43,957 INFO Accepted promise/jedit-4.3: 492 rows; 20 numeric metric columns; 2.24% defective
+2026-10-18 01:18:43,966 INFO Parsed xalan-2.7.csv using ',' and utf-8-sig: 909 rows, 24 raw columns
+2026-10-18 01:18:43,969 INFO Skip metric candidate 'name' in xalan-2.7.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,970 INFO Skip metric candidate 'version' in xalan-2.7.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,970 INFO Skip metric candidate 'name.1' in xalan-2.7.csv: non-numeric values (909)
+2026-10-18 01:18:43,974 INFO Accepted promise/xalan-2.7: 909 rows; 20 numeric metric columns; 98.79% defective
+2026-10-18 01:18:43,981 INFO Parsed xerces-1.4.csv using ',' and utf-8-sig: 588 rows, 24 raw columns
+2026-10-18 01:18:43,984 INFO Skip metric candidate 'name' in xerces-1.4.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,984 INFO Skip metric candidate 'version' in xerces-1.4.csv: known ID/metadata/alternate outcome
+2026-10-18 01:18:43,985 INFO Skip metric candidate 'name.1' in xerces-1.4.csv: non-numeric values (588)
+2026-10-18 01:18:43,989 INFO Accepted promise/xerces-1.4: 588 rows; 20 numeric metric columns; 74.32% defective
+2026-10-18 01:18:43,989 INFO FINAL promise shared feature schema: 20 metrics, 5 projects
+2026-10-18 01:42:55,606 INFO Created 4 figure sets in <ORIGINAL_RUN_ROOT>/TREAD_MSR_FINAL_RESULTS/figures
+2026-10-18 01:42:55,607 INFO ALL DONE. Results are in: <ORIGINAL_RUN_ROOT>/TREAD_MSR_FINAL_RESULTS

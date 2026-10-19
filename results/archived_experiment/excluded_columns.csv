@@ -1,0 +1,62 @@
+family,project,column,reason,invalid_nonempty_cells
+aeeem,equinox,classname,known ID/metadata/alternate outcome,0
+aeeem,equinox,,empty/unnamed header,0
+aeeem,jdt,classname,known ID/metadata/alternate outcome,0
+aeeem,jdt,,empty/unnamed header,0
+aeeem,lucene,classname,known ID/metadata/alternate outcome,0
+aeeem,lucene,,empty/unnamed header,0
+aeeem,mylyn,classname,known ID/metadata/alternate outcome,0
+aeeem,mylyn,,empty/unnamed header,0
+aeeem,pde,classname,known ID/metadata/alternate outcome,0
+aeeem,pde,,empty/unnamed header,0
+jira,activemq-5.0.0,File,known ID/metadata/alternate outcome,0
+jira,activemq-5.0.0,HeuBug,known ID/metadata/alternate outcome,0
+jira,activemq-5.0.0,HeuBugCount,known ID/metadata/alternate outcome,0
+jira,activemq-5.0.0,RealBugCount,known ID/metadata/alternate outcome,0
+jira,camel-2.10.0,File,known ID/metadata/alternate outcome,0
+jira,camel-2.10.0,HeuBug,known ID/metadata/alternate outcome,0
+jira,camel-2.10.0,HeuBugCount,known ID/metadata/alternate outcome,0
+jira,camel-2.10.0,RealBugCount,known ID/metadata/alternate outcome,0
+jira,derby-10.2.1.6,File,known ID/metadata/alternate outcome,0
+jira,derby-10.2.1.6,HeuBug,known ID/metadata/alternate outcome,0
+jira,derby-10.2.1.6,HeuBugCount,known ID/metadata/alternate outcome,0
+jira,derby-10.2.1.6,RealBugCount,known ID/metadata/alternate outcome,0
+jira,groovy-1_5_7,File,known ID/metadata/alternate outcome,0
+jira,groovy-1_5_7,HeuBug,known ID/metadata/alternate outcome,0
+jira,groovy-1_5_7,HeuBugCount,known ID/metadata/alternate outcome,0
+jira,groovy-1_5_7,RealBugCount,known ID/metadata/alternate outcome,0
+jira,hbase-0.94.0,File,known ID/metadata/alternate outcome,0
+jira,hbase-0.94.0,HeuBug,known ID/metadata/alternate outcome,0
+jira,hbase-0.94.0,HeuBugCount,known ID/metadata/alternate outcome,0
+jira,hbase-0.94.0,RealBugCount,known ID/metadata/alternate outcome,0
+jira,hive-0.10.0,File,known ID/metadata/alternate outcome,0
+jira,hive-0.10.0,HeuBug,known ID/metadata/alternate outcome,0
+jira,hive-0.10.0,HeuBugCount,known ID/metadata/alternate outcome,0
+jira,hive-0.10.0,RealBugCount,known ID/metadata/alternate outcome,0
+jira,jruby-1.1,File,known ID/metadata/alternate outcome,0
+jira,jruby-1.1,HeuBug,known ID/metadata/alternate outcome,0
+jira,jruby-1.1,HeuBugCount,known ID/metadata/alternate outcome,0
+jira,jruby-1.1,RealBugCount,known ID/metadata/alternate outcome,0
+jira,lucene-2.3.0,File,known ID/metadata/alternate outcome,0
+jira,lucene-2.3.0,HeuBug,known ID/metadata/alternate outcome,0
+jira,lucene-2.3.0,HeuBugCount,known ID/metadata/alternate outcome,0
+jira,lucene-2.3.0,RealBugCount,known ID/metadata/alternate outcome,0
+jira,wicket-1.3.0-incubating-beta-1,File,known ID/metadata/alternate outcome,0
+jira,wicket-1.3.0-incubating-beta-1,HeuBug,known ID/metadata/alternate outcome,0
+jira,wicket-1.3.0-incubating-beta-1,HeuBugCount,known ID/metadata/alternate outcome,0
+jira,wicket-1.3.0-incubating-beta-1,RealBugCount,known ID/metadata/alternate outcome,0
+promise,ant-1.7,name,known ID/metadata/alternate outcome,0
+promise,ant-1.7,version,known ID/metadata/alternate outcome,0
+promise,ant-1.7,name.1,non-numeric values (745),745
+promise,camel-1.6,name,known ID/metadata/alternate outcome,0
+promise,camel-1.6,version,known ID/metadata/alternate outcome,0
+promise,camel-1.6,name.1,non-numeric values (965),965
+promise,jedit-4.3,name,known ID/metadata/alternate outcome,0
+promise,jedit-4.3,version,known ID/metadata/alternate outcome,0
+promise,jedit-4.3,name.1,non-numeric values (492),492
+promise,xalan-2.7,name,known ID/metadata/alternate outcome,0
+promise,xalan-2.7,version,known ID/metadata/alternate outcome,0
+promise,xalan-2.7,name.1,non-numeric values (909),909
+promise,xerces-1.4,name,known ID/metadata/alternate outcome,0
+promise,xerces-1.4,version,known ID/metadata/alternate outcome,0
+promise,xerces-1.4,name.1,non-numeric values (588),588

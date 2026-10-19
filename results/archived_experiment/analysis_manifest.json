@@ -1,0 +1,10 @@
+{
+  "analyzable_targets": 19,
+  "incremental_regression": "Exploratory leave-one-target-out Ridge; outcome labels used only in posthoc analysis",
+  "interval_interpretation": "Descriptive; dependent source pools violate independent-run assumptions",
+  "missing_metrics": "Remain NaN (never converted to zero)",
+  "primary_learner": "GradientBoostingClassifier(n_estimators=200, learning_rate=.05, max_depth=3)",
+  "primary_outcome": "Class-specific mean true-class log loss, source-proximate subset",
+  "project_count": 19,
+  "units": "Target-project. Seeds averaged BEFORE comparisons"
+}

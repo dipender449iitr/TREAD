@@ -1,0 +1,7 @@
+# Versions recorded in run_manifest.json; Python 3.12.3 was used.
+numpy==2.4.0
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.8.0
+# Matplotlib was required for figures but its exact run version was not recorded.
+matplotlib>=3.8,<4

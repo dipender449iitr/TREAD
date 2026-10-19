@@ -1,0 +1,11 @@
+{
+  "alternative_models": "BIC-first, signed log scaling, 1e-4 covariance, hard target affinity",
+  "analysis_unit": "Target project (seeds averaged)",
+  "externals": "Project similarity, source-only difficulty, domain separability, predictive entropy",
+  "fixed_source": "First five JIRA projects ordered by canonical project name",
+  "oracle_affinity": "Evaluation labels only after deployable diagnosis and predictions",
+  "primary_equations_unchanged": true,
+  "primary_outcomes": "True-class loss on proximate members of each target class",
+  "project_group_validity": "Group entropy, concentration, ARI, AMI",
+  "proximity_sensitivity": "Project-held-out and class-specific comparisons"
+}

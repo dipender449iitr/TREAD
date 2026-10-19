@@ -1,0 +1,17 @@
+class,family,policy,n_targets,spearman_rho
+0,overall,all_nonempty,19,0.6596491228070176
+0,aeeem,all_nonempty,5,0.9999999999999999
+0,jira,all_nonempty,9,-0.049999999999999996
+0,promise,all_nonempty,5,0.7
+0,overall,n_at_least_10,19,0.6596491228070176
+0,aeeem,n_at_least_10,5,0.9999999999999999
+0,jira,n_at_least_10,9,-0.049999999999999996
+0,promise,n_at_least_10,5,0.7
+1,overall,all_nonempty,19,0.32807017543859646
+1,aeeem,all_nonempty,5,-0.8999999999999998
+1,jira,all_nonempty,9,-0.16666666666666669
+1,promise,all_nonempty,5,0.8999999999999998
+1,overall,n_at_least_10,18,0.23013415892672856
+1,aeeem,n_at_least_10,5,-0.8999999999999998
+1,jira,n_at_least_10,9,-0.16666666666666669
+1,promise,n_at_least_10,4,1.0

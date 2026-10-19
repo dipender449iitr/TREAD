@@ -1,0 +1,29 @@
+TREAD — MSR TARGET-RELATIVE EVIDENCE DIAGNOSIS
+Output directory: <ORIGINAL_RUN_ROOT>/TREAD_MSR_FINAL_RESULTS
+Primary files:
+  target_diagnoses.csv             Class scores R0/R1 and U for each target
+  representation_profiles.csv      Per-component D, A, H, T, R scores
+  project_rq2_analysis.csv         Diagnostic-to-target-outcome data
+  diagnostic_associations.csv     RQ2 project-level correlations
+  ablation_associations.csv       RQ3 baseline/ablation correlations
+  oracle_affinity_comparison.csv   Retrospective class-conditioned oracle
+  fixed_source_summary.csv        Fixed historical pool, changing target
+  representation_project_validity.csv Component project concentration
+  external_diagnostic_associations.csv External baseline comparisons
+  model_variant_associations.csv   BIC, scaling, covariance alternatives
+  class_count_sensitivity.csv      >=10 target-class observation check
+  dataset_quality_audit.csv       Duplicate and conflicting metric vectors
+  sensitivity_results.csv         Parameter and seed sensitivity
+  integrity_report.json           Completion, missingness, failures
+  dataset_inventory.csv            Actual project counts/dimensions from CSVs
+  feature_alignment.csv           Exactly which numeric metrics are common
+  source_feature_preprocessing.csv Metric use per outer source-fitted run
+  excluded_columns.csv            Non-metric/invalid columns with reasons
+  family_feature_schemas.json     Used metric schema for each family
+  figures/                         Auto-generated figures (if available)
+  targets/                         Full per-project and per-module audit traces
+
+All labels used for outcome evaluation only after TREAD diagnosis.
+A successful script run does not establish empirical utility of TREAD.
+IMPORTANT: compare actual CSV metric counts and shared features to the manuscript table.
+SMOKE-mode results are NOT suitable for manuscript reporting.
