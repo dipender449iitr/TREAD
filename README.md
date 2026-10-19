@@ -11,8 +11,6 @@
   comparisons, sensitivity analyses, fixed-source checks, manifests).
 * `figures/published/`: the seven manuscript results panel PNGs.
 * `figures/framework/`: manuscript framework image.
-* `scripts/`: paper-number verifier, original-benchmark hash checker, and
-  figure re-creator **reading the recorded CSVs**, plus package inventory.
 * `docs/ARTIFACT_TO_MANUSCRIPT_MAP.md`: mapping of each claim/analysis to files.
 * `docs/DATA_PROVENANCE_AND_OPEN_ISSUES.md`: data-provenance and release checklist.
 
